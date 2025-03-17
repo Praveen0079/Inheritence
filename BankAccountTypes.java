@@ -1,6 +1,6 @@
 import java.util.*;
 
-// Base class: BankAccount
+// Base class: BankAccount 
 class BankAccount {
 
     protected String accountNumber;
